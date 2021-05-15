@@ -1,0 +1,1 @@
+This app shows you an appbar, a text box and a "variable counter". You can use the floating action button given to increase the counter. It also shows a help message when you hover mouse on the increment button. 
